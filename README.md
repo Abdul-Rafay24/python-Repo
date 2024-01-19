@@ -14,7 +14,7 @@ Successfully scraped approximately 90,000 records from TripAdvisor.com.
 Implemented web scraping using Python Selenium to extract reviews and ratings.
 Created a data pipeline to ingest the scraped data into a SQL Server database for further analysis.
 
-Project 2: Survey Data Transformation and Ingestion
+# Project 2: Survey Data Transformation and Ingestion
 Problem:
 Dealing with survey data stored in an Excel file with around 2000 columns, this project aimed to organize and structure the data for efficient analysis. The challenge included handling a large number of columns and converting the data into a format suitable for a relational database.
 
