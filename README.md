@@ -1,6 +1,6 @@
 # python-Repo
 
-Project 1: TripAdvisor Web Scraping for Tourism Company
+# Project 1: TripAdvisor Web Scraping for Tourism Company
 Problem:
 To enhance marketing strategies for a tourism company, this project involved web scraping data from TripAdvisor.com. The objective was to gather valuable information on customer reviews, ratings, and feedback for various tourist destinations.
 
